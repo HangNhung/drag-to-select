@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Drag to Select Project
+
+This project is developed based on the article by Joshua Wootton on how to create drag-to-select functionality in React. The article provides a detailed guide on building a user interface that allows users to select multiple items by dragging the mouse.
+
+## References
+
+- [Drag to Select Article](https://www.joshuawootonn.com/react-drag-to-select#auto-scrolling) - A detailed guide on implementing drag-to-select functionality in React.
+
+## Features
+
+- Drag to select multiple items within a scrollable area.
+- Auto-scrolling when dragging to the edge of the area.
+- Support for selecting and deselecting items.
 
 ## Getting Started
 
